@@ -65,4 +65,4 @@ Security > Secure Boot > Secure Boot Control：Disable
 - [x] Microphone
 - [x] Bluetooth
 ### Notice!：
-After entering the Windows dual system, you must shut down! Do not reboot!Sound will not work!
+After entering the Windows dual system, you must shut down! Do not reboot! Sound will not work!
