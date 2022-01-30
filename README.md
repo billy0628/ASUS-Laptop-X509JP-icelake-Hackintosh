@@ -51,7 +51,7 @@ Security > Secure Boot > Secure Boot Control：Disable
                                 <false/>
                         </dict>
                 </array>
-## 💡Device stetus
+## 💡Device status
 ### Works：
 - [x] Graphics
 - [x] USB
@@ -65,4 +65,4 @@ Security > Secure Boot > Secure Boot Control：Disable
 - [x] Microphone
 - [x] Bluetooth
 ### Notice!：
-Do not reboot After entering the Windows dual system, must shut down! Sound will not work !
+Do not reboot after entering the Windows dual system, must shut down! Sound will not work !
