@@ -17,7 +17,7 @@ SMBIOS：MacBookPro16,2
 
 OC：0.7.7
 
-![alt text](Hackintosh-X509JP.jpg)
+![alt text](AUSU-Laptop-X509JP.jpg)
 
 ## 🛠️Setting BIOS
 Advanced > Intel AES-NI：Disable
