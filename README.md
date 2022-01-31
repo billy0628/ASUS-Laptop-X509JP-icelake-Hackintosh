@@ -1,7 +1,7 @@
 # ASUS-Laptop-X509JP-icelake-Hackintosh
 
 ## 🖥️Device
-| Model | Asus Laptop X509JP |
+| Model | ASUS Laptop X509JP |
 |------------|-------------------------------|
 | CPU | i5 1035G1(ice lake) |
 | GPU | Intel UHD Garphics |
