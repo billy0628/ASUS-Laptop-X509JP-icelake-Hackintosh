@@ -65,4 +65,4 @@ Security > Secure Boot > Secure Boot Control：Disable
 - [x] Microphone
 - [x] Bluetooth
 ### Warning!：
-Do not reboot after entering the Windows dual system, must shut down! Reboot to MacOS speakers will not work !
+Do not restart after entering the Windows dual system, must shut down! Restart to MacOS speakers will not work !
