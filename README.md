@@ -15,7 +15,7 @@ OS：MacOS Monterey
 
 SMBIOS：MacBookPro16,2
 
-OC：0.7.7
+OC：0.7.7 and higher
 
 ![alt text](ASUS-Laptop-X509JP.jpg)
 
