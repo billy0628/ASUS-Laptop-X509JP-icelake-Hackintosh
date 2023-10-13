@@ -3,7 +3,7 @@
 ## 🖥️Device
 | Model | ASUS Laptop X509JP |
 |------------|-------------------------------|
-| CPU | i5 1035G1(ice lake) |
+| CPU | i5 1035G1(Ice Lake) |
 | GPU | Intel UHD Garphics |
 | RAM | 12GB |
 | Audio | Realtek ALC256 |
