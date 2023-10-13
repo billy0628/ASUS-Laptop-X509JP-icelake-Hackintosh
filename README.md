@@ -11,7 +11,7 @@
 | BIOS Version | 307 |
 
 ## 📀System
-OS：MacOS Monterey
+Latest OS：MacOS Ventura
 
 SMBIOS：MacBookPro16,2
 
