@@ -11,7 +11,7 @@
 | BIOS Version | 307 |
 
 ## 📀System
-Latest OS：MacOS Tahoe
+Latest OS：MacOS Sequoia
 
 SMBIOS：MacBookPro16,2
 
