@@ -11,11 +11,11 @@
 | BIOS Version | 307 |
 
 ## 📀System
-Latest OS：MacOS Ventura
+Latest OS：MacOS Tahoe
 
 SMBIOS：MacBookPro16,2
 
-OC：0.7.7 and higher
+Latest OpenCore Version：1.0.5
 
 ![alt text](ASUS-Laptop-X509JP.jpg)
 
@@ -53,7 +53,7 @@ Security > Secure Boot > Secure Boot Control：Disable
                 </array>
 ## 💡Device status
 ### Works：
-- [x] Graphics
+- [v] Graphics
 - [x] USB
 - [x] Webcam
 - [x] Brightness controls
