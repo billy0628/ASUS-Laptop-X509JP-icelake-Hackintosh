@@ -53,7 +53,7 @@ Security > Secure Boot > Secure Boot Control：Disable
                 </array>
 ## 💡Device status
 ### Works：
-- [v] Graphics
+- [X] Graphics
 - [x] USB
 - [x] Webcam
 - [x] Brightness controls
