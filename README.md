@@ -53,7 +53,7 @@ Security > Secure Boot > Secure Boot Control：Disable
                 </array>
 ## 💡Device status
 ### Works：
-- [X] Graphics
+- [x] Graphics
 - [x] USB
 - [x] Webcam
 - [x] Brightness controls
@@ -64,7 +64,9 @@ Security > Secure Boot > Secure Boot Control：Disable
 - [x] Speakers
 - [x] Microphone
 - [x] Bluetooth
+
 ### No Works：
-- [x] HDMI Output
+- [ ] HDMI Output
+
 ### Warning!：
 Do not restart after entering the Windows dual system, must shut down! Restart to MacOS speakers will not work !
