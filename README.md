@@ -17,7 +17,7 @@ SMBIOS：MacBookPro16,2
 
 Latest OpenCore Version：1.0.5
 
-![alt text](ASUS-Laptop-X509JP.jpg)
+![alt text](ASUS-Laptop-X509JP.png)
 
 ## 🛠️Setting BIOS
 Advanced > Intel AES-NI：Disable
